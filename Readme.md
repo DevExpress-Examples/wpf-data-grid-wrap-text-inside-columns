@@ -48,7 +48,7 @@ To wrap the column header's text, specify the [ColumnHeaderTemplate](https://doc
 * [Build Binding Paths in WPF Data Grid Cells](https://github.com/DevExpress-Examples/how-to-build-binding-paths-in-gridcontrol-cells)
 * [WPF Data Grid - Add Image and Button Columns](https://github.com/DevExpress-Examples/wpf-data-grid-add-image-and-button-columns)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-wrap-text-inside-columns&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-wrap-text-inside-columns&~~~was_helpful=no)
 
